@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "ceramic-tiles-factory-erp",
+  "description": "Ceramic Tiles Factory ERP — Manufacturing Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Ceramic tiles ERP for production lots, shade sorting, packing, dealer orders, and quality holds. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "manufacturing",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/ceramic-tiles-factory-erp"
+}
